@@ -25,6 +25,8 @@ const PostgreSQL = {
 const git = { icon: "images/icons/skills/git.png", label: "Git" };
 const github = { icon: "images/icons/skills/github.png", label: "GitHub" };
 const React = { icon: "images/icons/skills/React.png", label: "React" };
+const Pytorch = { icon: "images/icons/skills/Pytorch.png", label: "Pytorch" };
+const Typescript = { icon: "images/icons/skills/Typescript.png", label: "Typescript" };
 
 export const skillsData = [
   csharp,
@@ -39,4 +41,6 @@ export const skillsData = [
   git,
   github,
   React,
+  Pytorch,
+  Typescript,
 ];
