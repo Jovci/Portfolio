@@ -1,12 +1,8 @@
 # **Portfolio Project**
-
-This is my personal portfolio website showcasing my projects, skills, and experiences.
-
----
-
 ## **Getting Started**
 
-Follow the steps below to set up and run the project locally.
+Follow the steps below to set up and run the project locally. 
+Deployed at https://www.johnmorkovci.com/
 
 ---
 
@@ -14,9 +10,41 @@ Follow the steps below to set up and run the project locally.
 
 Ensure you have the following installed on your system:
 
-- **Node.js** (to use live-server)  
-  [Download Node.js](https://nodejs.org/)
-- **Live Server**  
-  If you don’t have it installed, run:
-  ```bash
-  npm install -g live-server
+1. **Node.js**  
+   [Download Node.js](https://nodejs.org/)  
+
+2. **Live Server**  
+   If not installed, use the following command:  
+   ```bash
+   npm install -g live-server
+   ```
+
+---
+
+### **Installation**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jovci/Portfolio.git
+   ```
+
+2. Navigate into the project directory:
+   ```bash
+   cd portfolio
+   ```
+
+---
+
+### **Running the Project**
+
+1. Start the development server:
+   ```bash
+   live-server
+   ```
+
+2. Open your browser and navigate to:
+   ```
+   http://127.0.0.1:8080
+   ```
+
+---
